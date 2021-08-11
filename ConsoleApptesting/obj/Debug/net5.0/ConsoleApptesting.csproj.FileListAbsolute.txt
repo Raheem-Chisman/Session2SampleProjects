@@ -1,0 +1,16 @@
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\bin\Debug\net5.0\ConsoleApptesting.exe
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\bin\Debug\net5.0\ConsoleApptesting.deps.json
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\bin\Debug\net5.0\ConsoleApptesting.runtimeconfig.json
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\bin\Debug\net5.0\ConsoleApptesting.runtimeconfig.dev.json
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\bin\Debug\net5.0\ConsoleApptesting.dll
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\bin\Debug\net5.0\ref\ConsoleApptesting.dll
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\bin\Debug\net5.0\ConsoleApptesting.pdb
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.csproj.AssemblyReference.cache
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.AssemblyInfoInputs.cache
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.AssemblyInfo.cs
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.csproj.CoreCompileInputs.cache
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.dll
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ref\ConsoleApptesting.dll
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.pdb
+C:\Users\Pramod\source\repos\ConsoleApptesting\ConsoleApptesting\obj\Debug\net5.0\ConsoleApptesting.genruntimeconfig.cache
