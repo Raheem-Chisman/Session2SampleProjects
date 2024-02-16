@@ -1,9 +1,9 @@
 # This is currenlty a Sample sln from the App dev training session module 2.
 
 This repository consist of sample projects sources codes with 3 different scenarios.
-1. NetApp-MVC & WPF Calling WebApi.
-2. Angular Calling WebApi.
-3. Node JS App Calling WebApi.
+1. WebApp-MVC  Calling WebApi.
+2. ConsoleApp Calling WebApi
+3. WpfApp Calling WebApi.
 
 ## About this code
  > Note
