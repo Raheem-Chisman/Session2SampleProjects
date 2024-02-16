@@ -1,7 +1,6 @@
-This is currenlty  from the app dev training session.
+# This is currenlty from the App dev training session module 2.
 
-
-This consist of sample projects sources codes with 3 different scenarios.
-1.NetApp-MVC & WPF Calling WebApi.
-2.Angular Calling WebApi.
-3.Node JS App Calling WebApi.
+This repository consist of sample projects sources codes with 3 different scenarios.
+1. NetApp-MVC & WPF Calling WebApi.
+2. Angular Calling WebApi.
+3. Node JS App Calling WebApi.
