@@ -1,4 +1,4 @@
-# This is currenlty from the App dev training session module 2.
+# This is currenlty a Sample sln from the App dev training session module 2.
 
 This repository consist of sample projects sources codes with 3 different scenarios.
 1. NetApp-MVC & WPF Calling WebApi.
