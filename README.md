@@ -6,4 +6,11 @@ This repository consist of sample projects sources codes with 3 different scenar
 3. Node JS App Calling WebApi.
 
 ## About this code
- In this tutorial you will need install the <TargetFramework>net5.0 Framework.</TargetFramework>
+ > Note
+ >  - A rest API is being leveraged https://b2cwebapirestendpoint.azurewebsites.net/api/TodoItems
+>   - Using postman you you might need to  make a post to create the objects in the array.
+>   - Example
+>     ```Shell
+>     {"name": "second item","isComplete":false  }
+
+- In this tutorial you will need install the <TargetFramework>net5.0 Framework.</TargetFramework>
